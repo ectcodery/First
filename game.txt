@@ -2,6 +2,10 @@
 Are you OK?
 第三个分支
 ignore
+<<<<<<< HEAD
 haha
 第一次
 第二次
+=======
+haha
+>>>>>>> parent of 96accdd... 第一次改动
